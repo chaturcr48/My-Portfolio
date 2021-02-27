@@ -1,0 +1,422 @@
+<template>
+  <v-container class="main-container">
+    <v-row>
+      <v-col cols="12" sm="8">
+        <div class="f-name">KUMAR CHATUR RANJAN</div>
+        <!-- <div>Coding <span class="vl"></span> C / C++ / Python</div> -->
+        <div>Coder / Web Developer</div>
+      </v-col>
+      <v-col cols="" sm="" class="details border-left">
+            <div class="details-margin">
+              <v-icon small color="green darken-2">mdi-phone</v-icon>
+              7701966634
+            </div>
+            <div class="details-margin">
+              <v-icon small color="green darken-2">mdi-email</v-icon>
+              chaturcr48@gmail.com
+            </div>
+            <div class="details-margin">
+              <v-icon small color="green darken-2">mdi-github</v-icon>
+              http://github.com/chaturcr48
+            </div>
+            <div class="details-margin">
+              <v-icon small color="green darken-2">mdi-map-marker</v-icon>
+              Bihar, India
+            </div>
+      </v-col>
+    </v-row>
+    <v-divider style="margin-top: 20px"></v-divider>
+    <v-row class="margin">
+      <v-col cols="" sm="2" class="">
+        <v-img
+          class="s-row-img"
+          src="https://pbs.twimg.com/profile_images/1207689527042555904/_TuYmj5X.jpg"
+        ></v-img>
+      </v-col>
+      <v-col class="padding">
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam, esse
+          dolorum? Nostrum, facere at reprehenderit eveniet voluptatibus
+          adipisci temporibus recusandae consectetur fugiat incidunt eligendi
+          dicta earum quidem odio. Ex voluptatibus necessitatibus enim ipsam,
+          incidunt, fuga perferendis consequatur ullam labore quibusdam. Rerum,
+          officia est, nisi praesentium corrupti laudantium mollitia id sapiente
+          neque sunt deleniti! Obcaecati.
+        </p>
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque,
+          doloribus qui! Esse corporis laboriosam iure cupiditate, qui nihil,
+          quae, eius delectus ratione maiores magni architecto incidunt? Minima
+          amet fuga doloremque nam? Quidem veniam ut qui!
+        </p>
+      </v-col>
+    </v-row>
+    <v-divider style="margin-top: 10px"></v-divider>
+    <v-row class="margin">
+      <v-col cols="12" sm="8" class="">
+        <v-alert border="left" color="green" dark> Projects </v-alert>
+        <v-row class="padding">
+          <span style="font-weight: bold; font-size: 20px"
+            >Heading of the topic</span
+          >
+          <v-spacer></v-spacer> <span class="span-sub-topic"> sub topic</span>
+        </v-row>
+        <p class="padding-x">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi error
+          ducimus distinctio laborum consequatur assumenda similique tempora
+          modi fuga sunt voluptates repudiandae, suscipit quia eum atque
+          ratione, repellat saepe aspernatur dolorem dolorum recusandae earum
+          expedita quis. Consectetur accusamus molestiae, exercitationem
+          deleniti qui culpa natus commodi sed! Dolor ex ut doloribus ad ea
+          ratione libero dolores beatae.
+        </p>
+        <v-container>
+          <ul>
+            <li>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
+              officiis nulla optio tempor atque architecto voluptate. Quisquam
+              hic beatae illo officii.
+            </li>
+            <li>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
+              officiis nulla optio tempor atque architecto voluptate. Quisquam
+              hic beatae illo officii.
+            </li>
+            <li>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
+              officiis nulla optio tempor atque architecto voluptate. Quisquam
+              hic beatae illo officii.
+            </li>
+            <li>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
+              officiis nulla optio tempor atque architecto voluptate. Quisquam
+              hic beatae illo officii.
+            </li>
+          </ul>
+        </v-container>
+        <div class="padding-x"><a href="https://github.com/chaturcr48" target="_blank" rel="noopener noreferrer"><span class="link">See Project</span></a></div>
+        <v-row class="padding">
+          <span style="font-weight: bold; font-size: 20px"
+            >Heading of the topic</span
+          >
+          <v-spacer></v-spacer> <span class="span-sub-topic"> sub topic</span>
+        </v-row>
+        <p class="padding-x">
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia eius,
+          tempora ipsa veniam sapiente atque, possimus eaque delectus
+          accusantium illum, nostrum natus excepturi veritatis. Cumque obcaecati
+          fuga laboriosam velit possimus.
+        </p>
+        <v-container>
+          <ul>
+            <li>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
+              officiis nulla optio tempor atque architecto voluptate. Quisquam
+              hic beatae illo officii.
+            </li>
+            <li>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
+              officiis nulla optio tempor atque architecto voluptate. Quisquam
+              hic beatae illo officii.
+            </li>
+            <li>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
+              officiis nulla optio tempor atque architecto voluptate. Quisquam
+              hic beatae illo officii.
+            </li>
+          </ul>
+        </v-container>
+        <div class="padding-x"><a href="http://twitter.com" target="_blank" rel="noopener noreferrer"><span class="link">See Project</span></a></div>
+        <v-row class="padding">
+          <span style="font-weight: bold; font-size: 20px"
+            >Heading of the topic</span
+          >
+          <v-spacer></v-spacer> <span class="span-sub-topic"> sub topic</span>
+        </v-row>
+        <p class="padding-x">
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia eius,
+          tempora ipsa  nostrum natus excepturi veritatis. Cumque obcaecati
+          fuga laboriosam velit possimus.
+        </p>
+        <v-container>
+          <ul>
+            <li>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
+              officiis nulla optio tempor atque architecto voluptate. Quisquam
+              hic beatae illo officii.
+            </li>
+            <li>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
+              officiis nulla optio tempor atque architecto voluptate. Quisquam
+              hic beatae illo officii.
+            </li>
+          </ul>
+        </v-container>
+        <div class="padding-x"><a href="http://whatsapp.com" target="_blank" rel="noopener noreferrer"><span class="link">See Project</span></a></div>
+        <v-row class="padding">
+          <span style="font-weight: bold; font-size: 20px"
+            >Heading of the topic</span
+          >
+          <v-spacer></v-spacer> <span class="span-sub-topic"> sub topic</span>
+        </v-row>
+        <p class="padding-x">
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia eius,
+          tempora ipsa veniam sapiente atque, possimus eaque delectus
+          accusantium illum.
+        </p>
+        <v-container>
+          <ul>
+            <li>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
+              officiis nulla optio tempor atque architecto voluptate. Quisquam
+              hic beatae illo officii.
+            </li>
+            <li>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
+              officiis nulla optio tempor atque architecto voluptate. Quisquam
+              hic beatae illo officii.
+            </li>
+          </ul>
+        </v-container>
+        <div class="padding-x"><a href="http://instagram.com" target="_blank" rel="noopener noreferrer"><span class="link">See Project</span></a></div>
+        <v-alert border="left" color="green" dark class="margin-top"> Training / Cources </v-alert>
+        <v-row class="padding">
+          <span style="font-weight: bold; font-size: 20px"
+            >Heading of the topic</span
+          >
+          <v-spacer></v-spacer> <span class="span-sub-topic"> sub topic</span>
+        </v-row>
+        <p class="padding-x">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi error
+          ducimus distinctio laborum consequatur assumenda similique tempora
+          modi fuga sunt voluptates repudiandae, suscipit quia eum atque
+          ratione, repellat saepe aspernatur dolorem dolorum recusandae earum
+          expedita quis. Consectetur accusamus molestiae, exercitationem
+          deleniti qui culpa natus commodi sed! Dolor ex ut doloribus ad ea
+          ratione libero dolores beatae.
+        </p>
+        <v-container>
+          <ul>
+            <li>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
+              officiis nulla optio tempor atque architecto voluptate. Quisquam
+              hic beatae illo officii.
+            </li>
+            <li>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
+              officiis nulla optio tempor atque architecto voluptate. Quisquam
+              hic beatae illo officii.
+            </li>
+            <li>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
+              officiis nulla optio tempor atque architecto voluptate. Quisquam
+              hic beatae illo officii.
+            </li>
+            <li>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
+              officiis nulla optio tempor atque architecto voluptate. Quisquam
+              hic beatae illo officii.
+            </li>
+          </ul>
+        </v-container>
+        <v-alert border="left" color="green" dark class="margin-top"> Achievements </v-alert>
+        <v-row class="padding">
+          <span style="font-weight: bold; font-size: 20px"
+            >Heading of the topic</span
+          >
+          <v-spacer></v-spacer> <span class="span-sub-topic"> sub topic</span>
+        </v-row>
+        <p class="padding-x">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi error
+          ducimus distinctio laborum consequatur assumenda similique tempora
+          modi fuga sunt voluptates repudiandae, suscipit quia eum atque
+          ratione, repellat saepe aspernatur dolorem dolorum recusandae earum
+          expedita quis. Consectetur accusamus molestiae, exercitationem
+          deleniti qui culpa natus commodi sed! Dolor ex ut doloribus ad ea
+          ratione libero dolores beatae.
+        </p>
+        <v-container>
+          <ul>
+            <li>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
+              officiis nulla optio tempor atque architecto voluptate. Quisquam
+              hic beatae illo officii.
+            </li>
+            <li>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
+              officiis nulla optio tempor atque architecto voluptate. Quisquam
+              hic beatae illo officii.
+            </li>
+            <li>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
+              officiis nulla optio tempor atque architecto voluptate. Quisquam
+              hic beatae illo officii.
+            </li>
+            <li>
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
+              officiis nulla optio tempor atque architecto voluptate. Quisquam
+              hic beatae illo officii.
+            </li>
+          </ul>
+        </v-container>
+      </v-col>
+    
+      <v-col cols="" sm="" class="border-left">
+        <v-alert border="left" color="green" dark class=""> Skills </v-alert>
+        <span style="font-weight: bold; font-size: 20px" class="padding-x">Technical </span>
+          <div class="padding-x">
+            <div>C Programming</div>
+            <div>C++</div>
+            <div>Java / Object Oriented Programming</div>
+            <div>Python</div>
+            <div>HTML</div>
+            <div>CSS</div>
+            <div>Java Script</div>
+            <div>Node.Js</div>
+            <div>Vue.Js</div>
+            <div>PHP</div>
+            <div>MySql</div>
+            <div>MongoDB</div>
+          </div>
+        <span style="font-weight: bold; font-size: 20px" class="padding-x">Professional </span>
+          <div class="padding-x">
+            <div>Effective Communication</div>
+            <div>Problem Solver</div>
+            <div>Organised Workflow</div>
+          </div>
+        <v-alert border="left" color="green" dark class="margin-top"> Education </v-alert>
+        <span style="font-weight: bold; font-size: 20px" class="padding-x">Persuing B.E. CSE </span>
+          <div class="padding-x">
+            <div>University Institute Of Technology</div>
+            <div>Burdwan University</div>
+            <div>West Bengal, India</div>
+            <div>2018-2022</div>
+            <div>9.00 SGPA</div>
+          </div>
+        <span style="font-weight: bold; font-size: 20px" class="padding-x">CBSE XII Grade </span>
+          <div class="padding-x">
+            <div>Ramkrishna Vidya Mandir</div>
+            <div>Bhagalpur, Bihar</div>
+            <div>2017</div>
+            <div>87%</div>
+          </div>
+        <span style="font-weight: bold; font-size: 20px" class="padding-x">CBSE X Grade</span>
+          <div class="padding-x">
+            <div>S.B.P Vidya Vihar</div>
+            <div>Katihar, Bihar</div>
+            <div>2015</div>
+            <div>9.6 CGPA</div>
+          </div>
+        <v-alert border="left" color="green" dark class="margin-top"> Certification </v-alert>
+        <span style="font-weight: bold; font-size: 20px" class="padding-x">Heading </span>
+          <div class="padding-x">
+            <div>Not Yet</div>
+            <div>Not Yet</div>
+            <div>Not Yet</div>
+          </div>
+        <v-alert border="left" color="green" dark class="margin-top"> Languages </v-alert>
+        <div class="padding-x">
+            <div>English (Intermediate)</div>
+            <div>Hindi (Native)</div>
+            <div>Bengali (Beginner)</div>
+          </div>
+        <v-alert border="left" color="green" dark class="margin-top"> Interests </v-alert>
+        <span style="font-weight: bold; font-size: 20px" class="padding-x">Technical </span>
+          <div class="padding-x">
+            <div>Web Developing</div>
+            <div>Coding</div>
+          </div>
+        <span style="font-weight: bold; font-size: 20px" class="padding-x">Life </span>
+          <div class="padding-x">
+            <div>Reading Books</div>
+            <div>Cricket</div>
+            <div>Music</div>
+            <div>Social Media</div>
+          </div>
+      </v-col>
+    </v-row>
+    <v-divider style="margin-top: 20px"></v-divider>
+  <v-container class="margin-top">
+    <v-row
+      align="center"
+      justify="center"
+    >
+      <a class="padding-x footer-link" href="http://www.facebook.com/chatur.ranjan.1" target="_blank" rel="noopener noreferrer">
+        <v-icon class="footer-icon" color="green darken-2">
+          mdi-facebook </v-icon></a>
+      <a class="padding-x footer-link" href="http://chaturcr48@gmail.com" target="_blank" rel="noopener noreferrer"> 
+        <v-icon class="footer-icon" color="green darken-2"> 
+          mdi-email </v-icon></a>
+      <a class="padding-x footer-link" href="http://github.com/chaturcr48" target="_blank" rel="noopener noreferrer"> 
+        <v-icon class="footer-icon" color="green darken-2"> 
+          mdi-github </v-icon></a>
+      <a class="padding-x footer-link" href="https://www.linkedin.com/in/kumar-chatur-ranjan-538898179" target="_blank" rel="noopener noreferrer"> 
+      <v-icon class="footer-icon" color="green darken-2"> mdi-linkedin </v-icon></a>
+    </v-row>
+  </v-container>
+  </v-container>
+</template>
+
+<style scoped>
+.f-name {
+  font-size: 55px;
+  font-weight: bold;
+  color: green;
+}
+.vl {
+  border-left: 1.5px solid rgba(0, 0, 0, 0.158);
+  margin-right: 5px;
+}
+.main-container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 35px;
+  box-shadow: 0px 0px 50px -20px green;
+}
+.details {
+  font-size: 13px;
+}
+.border {
+  border: 2px solid black;
+}
+.border-left{
+  border-left: 1px solid rgba(0, 0, 0, 0.192);
+}
+.details-margin {
+  margin: 3px;
+}
+.s-row-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.padding {
+  padding: 20px;
+}
+.margin {
+  margin-top: 10px;
+}
+.padding-x {
+  padding: 0px 10px;
+}
+.margin-top{
+  margin-top: 10px;
+}
+a{
+  text-decoration: none;
+  color: green;
+}
+.link{
+  color: green;
+}
+.span-sub-topic{
+  color: rgba(0, 0, 0, 0.596);
+}
+.footer-link{
+  color: black;
+}
+.footer-link:hover{
+  color: green;
+  font-weight: bold;
+}
+</style>
