@@ -7,22 +7,26 @@
         <div>Coder / Web Developer</div>
       </v-col>
       <v-col cols="" sm="" class="details border-left">
-            <div class="details-margin">
-              <v-icon small color="green darken-2">mdi-phone</v-icon>
-              7701966634
-            </div>
-            <div class="details-margin">
-              <v-icon small color="green darken-2">mdi-email</v-icon>
-              chaturcr48@gmail.com
-            </div>
-            <div class="details-margin">
-              <v-icon small color="green darken-2">mdi-github</v-icon>
-              http://github.com/chaturcr48
-            </div>
-            <div class="details-margin">
-              <v-icon small color="green darken-2">mdi-map-marker</v-icon>
-              Bihar, India
-            </div>
+        <div class="details-margin">
+          <v-icon small color="green darken-2">mdi-phone</v-icon>
+          7701966634
+        </div>
+        <div class="details-margin">
+          <v-icon small color="green darken-2">mdi-email</v-icon>
+          chaturcr48@gmail.com
+        </div>
+        <div class="details-margin">
+          <v-icon small color="green darken-2">mdi-github</v-icon>
+          http://github.com/chaturcr48
+        </div>
+        <div class="details-margin">
+          <v-icon small color="green darken-2">mdi-linkedin</v-icon>
+          kumar-chatur-ranjan-538898179
+        </div>
+        <div class="details-margin">
+          <v-icon small color="green darken-2">mdi-map-marker</v-icon>
+          Bihar, India
+        </div>
       </v-col>
     </v-row>
     <v-divider style="margin-top: 20px"></v-divider>
@@ -35,19 +39,15 @@
       </v-col>
       <v-col class="padding">
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam, esse
-          dolorum? Nostrum, facere at reprehenderit eveniet voluptatibus
-          adipisci temporibus recusandae consectetur fugiat incidunt eligendi
-          dicta earum quidem odio. Ex voluptatibus necessitatibus enim ipsam,
-          incidunt, fuga perferendis consequatur ullam labore quibusdam. Rerum,
-          officia est, nisi praesentium corrupti laudantium mollitia id sapiente
-          neque sunt deleniti! Obcaecati.
+          Love to do coding everyday to increase problem solving capabilities.
+          Attending several coding contest on various online coding platform.
+          Apart from that, I also spend my time in Web-Developing, where i got
+          to learn new things everyday and chances to work on various framework.
         </p>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque,
-          doloribus qui! Esse corporis laboriosam iure cupiditate, qui nihil,
-          quae, eius delectus ratione maiores magni architecto incidunt? Minima
-          amet fuga doloremque nam? Quidem veniam ut qui!
+          I aspire to be working on Web-Developing and Coding to enhance my
+          skills and knowledge to a point where I can find myself comfortable to
+          contribute and bring a change, regardless of how small it may be.
         </p>
       </v-col>
     </v-row>
@@ -57,49 +57,47 @@
         <v-alert border="left" color="green" dark> Projects </v-alert>
         <v-row class="padding">
           <span style="font-weight: bold; font-size: 20px"
-            >Heading of the topic</span
+            >Forum For Question And Answer</span
           >
-          <v-spacer></v-spacer> <span class="span-sub-topic"> sub topic</span>
+          <v-spacer></v-spacer> <span class="span-sub-topic"> PHP / MySql / Bootstrap</span>
         </v-row>
         <p class="padding-x">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi error
-          ducimus distinctio laborum consequatur assumenda similique tempora
-          modi fuga sunt voluptates repudiandae, suscipit quia eum atque
-          ratione, repellat saepe aspernatur dolorem dolorum recusandae earum
-          expedita quis. Consectetur accusamus molestiae, exercitationem
-          deleniti qui culpa natus commodi sed! Dolor ex ut doloribus ad ea
-          ratione libero dolores beatae.
+          A basic Forum to arise their question related to a particular
+          categories and can get answer of their queries also. Someone haven't
+          any question can give answer of any question by posting a comment of
+          related queries.
         </p>
         <v-container>
           <ul>
             <li>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
-              officiis nulla optio tempor atque architecto voluptate. Quisquam
-              hic beatae illo officii.
+              User can visit the forum and see any category, question, answer, etc. but they are not
+              able to arise their question before signing.
             </li>
             <li>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
-              officiis nulla optio tempor atque architecto voluptate. Quisquam
-              hic beatae illo officii.
+              User have to first signup and login to the forum to arise their
+              question or to post answer.
             </li>
             <li>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
-              officiis nulla optio tempor atque architecto voluptate. Quisquam
-              hic beatae illo officii.
+              The time of posting are recorded along with their names.
             </li>
             <li>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
-              officiis nulla optio tempor atque architecto voluptate. Quisquam
-              hic beatae illo officii.
+              The forum is fully responsive, designed using vue.js framework.
             </li>
           </ul>
         </v-container>
-        <div class="padding-x"><a href="https://github.com/chaturcr48" target="_blank" rel="noopener noreferrer"><span class="link">See Project</span></a></div>
+        <div class="padding-x">
+          <a
+            href="https://github.com/chaturcr48/Forum-for-question-and-answer"
+            target="_blank"
+            rel="noopener noreferrer"
+            ><span class="link">See Project</span></a
+          >
+        </div>
         <v-row class="padding">
           <span style="font-weight: bold; font-size: 20px"
-            >Heading of the topic</span
+            >Quiz App</span
           >
-          <v-spacer></v-spacer> <span class="span-sub-topic"> sub topic</span>
+          <v-spacer></v-spacer> <span class="span-sub-topic"> HTML / CSS / JS</span>
         </v-row>
         <p class="padding-x">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia eius,
@@ -126,17 +124,21 @@
             </li>
           </ul>
         </v-container>
-        <div class="padding-x"><a href="http://twitter.com" target="_blank" rel="noopener noreferrer"><span class="link">See Project</span></a></div>
+        <div class="padding-x">
+          <a href="https://github.com/chaturcr48/Quiz-App" target="_blank" rel="noopener noreferrer"
+            ><span class="link">See Project</span></a
+          >
+        </div>
         <v-row class="padding">
           <span style="font-weight: bold; font-size: 20px"
-            >Heading of the topic</span
+            >Admin Login Dashboard</span
           >
-          <v-spacer></v-spacer> <span class="span-sub-topic"> sub topic</span>
+          <v-spacer></v-spacer> <span class="span-sub-topic"> PHP / MySql / Bootstrap</span>
         </v-row>
         <p class="padding-x">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia eius,
-          tempora ipsa  nostrum natus excepturi veritatis. Cumque obcaecati
-          fuga laboriosam velit possimus.
+          tempora ipsa nostrum natus excepturi veritatis. Cumque obcaecati fuga
+          laboriosam velit possimus.
         </p>
         <v-container>
           <ul>
@@ -152,12 +154,19 @@
             </li>
           </ul>
         </v-container>
-        <div class="padding-x"><a href="http://whatsapp.com" target="_blank" rel="noopener noreferrer"><span class="link">See Project</span></a></div>
+        <div class="padding-x">
+          <a
+            href="https://github.com/chaturcr48/CRUD-Project"
+            target="_blank"
+            rel="noopener noreferrer"
+            ><span class="link">See Project</span></a
+          >
+        </div>
         <v-row class="padding">
           <span style="font-weight: bold; font-size: 20px"
-            >Heading of the topic</span
+            >A Product Base App</span
           >
-          <v-spacer></v-spacer> <span class="span-sub-topic"> sub topic</span>
+          <v-spacer></v-spacer> <span class="span-sub-topic"> vue.js</span>
         </v-row>
         <p class="padding-x">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia eius,
@@ -178,8 +187,17 @@
             </li>
           </ul>
         </v-container>
-        <div class="padding-x"><a href="http://instagram.com" target="_blank" rel="noopener noreferrer"><span class="link">See Project</span></a></div>
-        <v-alert border="left" color="green" dark class="margin-top"> Training / Cources </v-alert>
+        <div class="padding-x">
+          <a
+            href="https://github.com/chaturcr48/A-product-base-app"
+            target="_blank"
+            rel="noopener noreferrer"
+            ><span class="link">See Project</span></a
+          >
+        </div>
+        <v-alert border="left" color="green" dark class="margin-top">
+          Training / Cources
+        </v-alert>
         <v-row class="padding">
           <span style="font-weight: bold; font-size: 20px"
             >Heading of the topic</span
@@ -219,7 +237,9 @@
             </li>
           </ul>
         </v-container>
-        <v-alert border="left" color="green" dark class="margin-top"> Achievements </v-alert>
+        <v-alert border="left" color="green" dark class="margin-top">
+          Achievements
+        </v-alert>
         <v-row class="padding">
           <span style="font-weight: bold; font-size: 20px"
             >Heading of the topic</span
@@ -260,100 +280,158 @@
           </ul>
         </v-container>
       </v-col>
-    
+
       <v-col cols="" sm="" class="border-left">
         <v-alert border="left" color="green" dark class=""> Skills </v-alert>
-        <span style="font-weight: bold; font-size: 20px" class="padding-x">Technical </span>
-          <div class="padding-x">
-            <div>C Programming</div>
-            <div>C++</div>
-            <div>Java / Object Oriented Programming</div>
-            <div>Python</div>
-            <div>HTML</div>
-            <div>CSS</div>
-            <div>Java Script</div>
-            <div>Node.Js</div>
-            <div>Vue.Js</div>
-            <div>PHP</div>
-            <div>MySql</div>
-            <div>MongoDB</div>
-          </div>
-        <span style="font-weight: bold; font-size: 20px" class="padding-x">Professional </span>
-          <div class="padding-x">
-            <div>Effective Communication</div>
-            <div>Problem Solver</div>
-            <div>Organised Workflow</div>
-          </div>
-        <v-alert border="left" color="green" dark class="margin-top"> Education </v-alert>
-        <span style="font-weight: bold; font-size: 20px" class="padding-x">Persuing B.E. CSE </span>
-          <div class="padding-x">
-            <div>University Institute Of Technology</div>
-            <div>Burdwan University</div>
-            <div>West Bengal, India</div>
-            <div>2018-2022</div>
-            <div>9.00 SGPA</div>
-          </div>
-        <span style="font-weight: bold; font-size: 20px" class="padding-x">CBSE XII Grade </span>
-          <div class="padding-x">
-            <div>Ramkrishna Vidya Mandir</div>
-            <div>Bhagalpur, Bihar</div>
-            <div>2017</div>
-            <div>87%</div>
-          </div>
-        <span style="font-weight: bold; font-size: 20px" class="padding-x">CBSE X Grade</span>
-          <div class="padding-x">
-            <div>S.B.P Vidya Vihar</div>
-            <div>Katihar, Bihar</div>
-            <div>2015</div>
-            <div>9.6 CGPA</div>
-          </div>
-        <v-alert border="left" color="green" dark class="margin-top"> Certification </v-alert>
-        <span style="font-weight: bold; font-size: 20px" class="padding-x">Heading </span>
-          <div class="padding-x">
-            <div>Not Yet</div>
-            <div>Not Yet</div>
-            <div>Not Yet</div>
-          </div>
-        <v-alert border="left" color="green" dark class="margin-top"> Languages </v-alert>
+        <span style="font-weight: bold; font-size: 20px" class="padding-x"
+          >Technical
+        </span>
         <div class="padding-x">
-            <div>English (Intermediate)</div>
-            <div>Hindi (Native)</div>
-            <div>Bengali (Beginner)</div>
-          </div>
-        <v-alert border="left" color="green" dark class="margin-top"> Interests </v-alert>
-        <span style="font-weight: bold; font-size: 20px" class="padding-x">Technical </span>
-          <div class="padding-x">
-            <div>Web Developing</div>
-            <div>Coding</div>
-          </div>
-        <span style="font-weight: bold; font-size: 20px" class="padding-x">Life </span>
-          <div class="padding-x">
-            <div>Reading Books</div>
-            <div>Cricket</div>
-            <div>Music</div>
-            <div>Social Media</div>
-          </div>
+          <div>C Programming</div>
+          <div>C++</div>
+          <div>Java / Object Oriented Programming</div>
+          <div>Python</div>
+          <div>HTML</div>
+          <div>CSS</div>
+          <div>Java Script</div>
+          <div>Node.Js</div>
+          <div>Vue.Js</div>
+          <div>PHP</div>
+          <div>MySql</div>
+          <div>MongoDB</div>
+        </div>
+        <span style="font-weight: bold; font-size: 20px" class="padding-x"
+          >Professional
+        </span>
+        <div class="padding-x">
+          <div>Effective Communication</div>
+          <div>Problem Solver</div>
+          <div>Organised Workflow</div>
+        </div>
+        <v-alert border="left" color="green" dark class="margin-top">
+          Education
+        </v-alert>
+        <span style="font-weight: bold; font-size: 20px" class="padding-x"
+          >Persuing B.E. CSE
+        </span>
+        <div class="padding-x">
+          <div>University Institute Of Technology</div>
+          <div>Burdwan University</div>
+          <div>West Bengal, India</div>
+          <div>2018-2022</div>
+          <div>9.00 SGPA</div>
+        </div>
+        <span style="font-weight: bold; font-size: 20px" class="padding-x"
+          >CBSE XII Grade
+        </span>
+        <div class="padding-x">
+          <div>Ramkrishna Vidya Mandir</div>
+          <div>Bhagalpur, Bihar</div>
+          <div>2017</div>
+          <div>87%</div>
+        </div>
+        <span style="font-weight: bold; font-size: 20px" class="padding-x"
+          >CBSE X Grade</span
+        >
+        <div class="padding-x">
+          <div>S.B.P Vidya Vihar</div>
+          <div>Katihar, Bihar</div>
+          <div>2015</div>
+          <div>9.6 CGPA</div>
+        </div>
+        <v-alert border="left" color="green" dark class="margin-top">
+          Certification
+        </v-alert>
+        <span style="font-weight: bold; font-size: 20px" class="padding-x"
+          >Heading
+        </span>
+        <div class="padding-x">
+          <div>Not Yet</div>
+        </div>
+        <v-alert border="left" color="green" dark class="margin-top">
+          Languages
+        </v-alert>
+        <div class="padding-x">
+          <div>English (Intermediate)</div>
+          <div>Hindi (Native)</div>
+          <div>Bengali (Beginner)</div>
+        </div>
+        <v-alert border="left" color="green" dark class="margin-top">
+          Interests
+        </v-alert>
+        <span style="font-weight: bold; font-size: 20px" class="padding-x"
+          >Technical
+        </span>
+        <div class="padding-x">
+          <div>Coding</div>
+          <div>Web Developing</div>
+        </div>
+        <span style="font-weight: bold; font-size: 20px" class="padding-x"
+          >Life
+        </span>
+        <div class="padding-x">
+          <div>Reading Books</div>
+          <div>Cricket</div>
+          <div>Music</div>
+          <div>Social Media</div>
+        </div>
       </v-col>
     </v-row>
     <v-divider style="margin-top: 20px"></v-divider>
-  <v-container class="margin-top">
-    <v-row
-      align="center"
-      justify="center"
-    >
-      <a class="padding-x footer-link" href="http://www.facebook.com/chatur.ranjan.1" target="_blank" rel="noopener noreferrer">
-        <v-icon class="footer-icon" color="green darken-2">
-          mdi-facebook </v-icon></a>
-      <a class="padding-x footer-link" href="http://chaturcr48@gmail.com" target="_blank" rel="noopener noreferrer"> 
-        <v-icon class="footer-icon" color="green darken-2"> 
-          mdi-email </v-icon></a>
-      <a class="padding-x footer-link" href="http://github.com/chaturcr48" target="_blank" rel="noopener noreferrer"> 
-        <v-icon class="footer-icon" color="green darken-2"> 
-          mdi-github </v-icon></a>
-      <a class="padding-x footer-link" href="https://www.linkedin.com/in/kumar-chatur-ranjan-538898179" target="_blank" rel="noopener noreferrer"> 
-      <v-icon class="footer-icon" color="green darken-2"> mdi-linkedin </v-icon></a>
-    </v-row>
-  </v-container>
+    <v-container class="margin-top">
+      <v-row align="center" justify="center">
+        <a
+          class="padding-x footer-link"
+          href="http://www.facebook.com/chatur.ranjan.1"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <v-icon class="footer-icon" color="green darken-2">
+            mdi-facebook
+          </v-icon></a
+        >
+        <a
+          class="padding-x footer-link"
+          href="https://www.instagram.com/chatur_48/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <v-icon class="footer-icon" color="green darken-2">
+            mdi-instagram
+          </v-icon></a
+        >
+        <a
+          class="padding-x footer-link"
+          href="http://chaturcr48@gmail.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <v-icon class="footer-icon" color="green darken-2">
+            mdi-email
+          </v-icon></a
+        >
+        <a
+          class="padding-x footer-link"
+          href="http://github.com/chaturcr48"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <v-icon class="footer-icon" color="green darken-2">
+            mdi-github
+          </v-icon></a
+        >
+        <a
+          class="padding-x footer-link"
+          href="https://www.linkedin.com/in/kumar-chatur-ranjan-538898179"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <v-icon class="footer-icon" color="green darken-2">
+            mdi-linkedin
+          </v-icon></a
+        >
+      </v-row>
+    </v-container>
   </v-container>
 </template>
 
@@ -379,7 +457,7 @@
 .border {
   border: 2px solid black;
 }
-.border-left{
+.border-left {
   border-left: 1px solid rgba(0, 0, 0, 0.192);
 }
 .details-margin {
@@ -399,23 +477,23 @@
 .padding-x {
   padding: 0px 10px;
 }
-.margin-top{
+.margin-top {
   margin-top: 10px;
 }
-a{
+a {
   text-decoration: none;
   color: green;
 }
-.link{
+.link {
   color: green;
 }
-.span-sub-topic{
+.span-sub-topic {
   color: rgba(0, 0, 0, 0.596);
 }
-.footer-link{
+.footer-link {
   color: black;
 }
-.footer-link:hover{
+.footer-link:hover {
   color: green;
   font-weight: bold;
 }
