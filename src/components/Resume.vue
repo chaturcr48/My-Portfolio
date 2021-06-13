@@ -4,27 +4,43 @@
       <v-col cols="12" sm="8">
         <div class="f-name">KUMAR CHATUR RANJAN</div>
         <!-- <div>Coding <span class="vl"></span> C / C++ / Python</div> -->
-        <div>Coder / Web Developer</div>
+        <div>Coder / Data Scientist / Web Developer</div>
       </v-col>
       <v-col cols="" sm="" class="details border-left">
         <div class="details-margin">
+          <a href="tel:+917701966634">
           <v-icon small color="green darken-2">mdi-phone</v-icon>
+          </a>
           7701966634
         </div>
         <div class="details-margin">
-          <v-icon small color="green darken-2">mdi-email</v-icon>
+          <a href="http://chaturcr48@gmail.com" target="_blank">
+            <v-icon small color="green darken-2">mdi-email</v-icon>
+          </a>
           chaturcr48@gmail.com
         </div>
         <div class="details-margin">
-          <v-icon small color="green darken-2">mdi-github</v-icon>
+          <a href="http://github.com/chaturcr48" target="_blank">
+            <v-icon small color="green darken-2">mdi-github</v-icon>
+          </a>
           http://github.com/chaturcr48
         </div>
         <div class="details-margin">
-          <v-icon small color="green darken-2">mdi-linkedin</v-icon>
+          <a
+            href="https://www.linkedin.com/in/kumar-chatur-ranjan-538898179"
+            target="_blank"
+          >
+            <v-icon small color="green darken-2">mdi-linkedin</v-icon>
+          </a>
           kumar-chatur-ranjan-538898179
         </div>
         <div class="details-margin">
-          <v-icon small color="green darken-2">mdi-map-marker</v-icon>
+          <a
+            href="https://www.google.co.in/maps/place/25%C2%B023'29.9%22N+86%C2%B050'14.8%22E/@25.3916439,86.8352418,17z/data=!3m1!4b1!4m9!1m2!10m1!1e2!3m5!1s0x39f1cc34aec94f47:0x0!7e2!8m2!3d25.3916391!4d86.8374305?hl=en&authuser=0"
+            target="_blank"
+          >
+            <v-icon small color="green darken-2">mdi-map-marker</v-icon>
+          </a>
           Bihar, India
         </div>
       </v-col>
@@ -41,11 +57,16 @@
         <p>
           Love to do coding everyday to increase problem solving capabilities.
           Attending several coding contest on various online coding platform.
+          I enjoy automating everyday task using Python. The idea of enabling a
+          machine to learn strikes me. To keep myself updated, I tend to do
+          projects that require constant brushing up, learning and research on
+          various ML libraries.
           Apart from that, I also spend my time in Web-Developing, where i got
           to learn new things everyday and chances to work on various framework.
+          Hence I see myself enjoying it as my full time profession.
         </p>
         <p>
-          I aspire to be working on Web-Developing and Coding to enhance my
+          I aspire to be working on Machine Learning to enhance my
           skills and knowledge to a point where I can find myself comfortable to
           contribute and bring a change, regardless of how small it may be.
         </p>
@@ -59,7 +80,8 @@
           <span style="font-weight: bold; font-size: 20px"
             >Forum For Question And Answer</span
           >
-          <v-spacer></v-spacer> <span class="span-sub-topic"> PHP / MySql / Bootstrap</span>
+          <v-spacer></v-spacer>
+          <span class="span-sub-topic"> PHP / MySql / Bootstrap</span>
         </v-row>
         <p class="padding-x">
           A basic Forum to arise their question related to a particular
@@ -70,16 +92,14 @@
         <v-container>
           <ul>
             <li>
-              User can visit the forum and see any category, question, answer, etc. but they are not
-              able to arise their question before signing.
+              User can visit the forum and see any category, question, answer,
+              etc. but they are not able to arise their question before signing.
             </li>
             <li>
               User have to first signup and login to the forum to arise their
               question or to post answer.
             </li>
-            <li>
-              The time of posting are recorded along with their names.
-            </li>
+            <li>The time of posting are recorded along with their names.</li>
             <li>
               The forum is fully responsive, designed using vue.js framework.
             </li>
@@ -94,10 +114,9 @@
           >
         </div>
         <v-row class="padding">
-          <span style="font-weight: bold; font-size: 20px"
-            >Quiz App</span
-          >
-          <v-spacer></v-spacer> <span class="span-sub-topic"> HTML / CSS / JS</span>
+          <span style="font-weight: bold; font-size: 20px">Quiz App</span>
+          <v-spacer></v-spacer>
+          <span class="span-sub-topic"> HTML / CSS / JS</span>
         </v-row>
         <p class="padding-x">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia eius,
@@ -125,7 +144,10 @@
           </ul>
         </v-container>
         <div class="padding-x">
-          <a href="https://github.com/chaturcr48/Quiz-App" target="_blank" rel="noopener noreferrer"
+          <a
+            href="https://github.com/chaturcr48/Quiz-App"
+            target="_blank"
+            rel="noopener noreferrer"
             ><span class="link">See Project</span></a
           >
         </div>
@@ -133,7 +155,8 @@
           <span style="font-weight: bold; font-size: 20px"
             >Admin Login Dashboard</span
           >
-          <v-spacer></v-spacer> <span class="span-sub-topic"> PHP / MySql / Bootstrap</span>
+          <v-spacer></v-spacer>
+          <span class="span-sub-topic"> PHP / MySql / Bootstrap</span>
         </v-row>
         <p class="padding-x">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia eius,
@@ -354,7 +377,6 @@
         <div class="padding-x">
           <div>English (Intermediate)</div>
           <div>Hindi (Native)</div>
-          <div>Bengali (Beginner)</div>
         </div>
         <v-alert border="left" color="green" dark class="margin-top">
           Interests
@@ -429,6 +451,14 @@
           <v-icon class="footer-icon" color="green darken-2">
             mdi-linkedin
           </v-icon></a
+        >
+        <a
+          class="padding-x footer-link"
+          href="https://www.stopstalk.com/user/profile/Chatur_48"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <span style="color: green"> StopStalk</span></a
         >
       </v-row>
     </v-container>
