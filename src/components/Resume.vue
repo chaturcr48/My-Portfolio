@@ -379,20 +379,6 @@
         <div class="padding-x">
           <div>
             <a
-              href="https://drive.google.com/file/d/1w42lPTxhI9S4QBVlxod_BRCKCub2m_b4/view?usp=sharing"
-              target="_blank"
-              rel="noopener noreferrer"
-              class=""
-              ><span class="" color="" style="color: black; margin-right: 5px"
-                >Cloud Computing</span
-              >
-              <v-icon class="footer-icon" color="green darken-2">
-                mdi-link
-              </v-icon>
-            </a>
-          </div>
-          <div>
-            <a
               href="https://drive.google.com/file/d/1sU3N21XR8EF7MAairdJl9YDpq3GtdSjC/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
@@ -469,6 +455,20 @@
               class=""
               ><span class="" color="" style="color: black; margin-right: 5px"
                 >Python</span
+              >
+              <v-icon class="footer-icon" color="green darken-2">
+                mdi-link
+              </v-icon>
+            </a>
+          </div>
+          <div>
+            <a
+              href="https://drive.google.com/file/d/1w42lPTxhI9S4QBVlxod_BRCKCub2m_b4/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              class=""
+              ><span class="" color="" style="color: black; margin-right: 5px"
+                >Cloud Computing</span
               >
               <v-icon class="footer-icon" color="green darken-2">
                 mdi-link
