@@ -1,11 +1,17 @@
 <template>
   <v-container class="main-container">
+
+    <Footer />
+
+    <!-- head section  -->
     <v-row>
+      <!-- head section name -->
       <v-col cols="12" sm="8">
         <div class="f-name">KUMAR CHATUR RANJAN</div>
-        <!-- <div>Coding <span class="vl"></span> C / C++ / Python</div> -->
         <div>Coder / Web Developer</div>
       </v-col>
+
+      <!-- head section contact detail  -->
       <v-col cols="" sm="" class="details border-left">
         <div class="details-margin">
           <a href="tel:+917701966634">
@@ -44,8 +50,12 @@
           Bihar, India
         </div>
       </v-col>
+
     </v-row>
+
     <v-divider style="margin-top: 20px"></v-divider>
+
+    <!-- introduction  -->
     <v-row class="margin">
       <v-col cols="" sm="2" class="">
         <v-img
@@ -72,8 +82,13 @@
         </p>
       </v-col>
     </v-row>
+
     <v-divider style="margin-top: 10px"></v-divider>
+
+    <!-- main section  -->
     <v-row class="margin">
+
+      <!-- projects and training  -->
       <v-col cols="12" sm="8" class="">
         <v-alert border="left" color="green" dark> Projects </v-alert>
         <v-row class="padding">
@@ -304,6 +319,7 @@
         </v-container>
       </v-col>
 
+      <!-- skill section  -->
       <v-col cols="" sm="" class="border-left">
         <v-alert border="left" color="green" dark class=""> Skills </v-alert>
         <span style="font-weight: bold; font-size: 20px" class="padding-x"
@@ -494,8 +510,12 @@
           <div>Social Media</div>
         </div>
       </v-col>
+
     </v-row>
+
     <v-divider style="margin-top: 20px"></v-divider>
+
+    <!-- footer -->
     <v-container class="margin-top">
       <v-row align="center" justify="center">
         <a
@@ -558,8 +578,20 @@
         >
       </v-row>
     </v-container>
+
   </v-container>
 </template>
+
+<script>
+import Footer from './Footer.vue';
+
+export default {
+  name: 'App',
+  components: {
+    Footer
+  }
+}
+</script>
 
 <style scoped>
 .f-name {
