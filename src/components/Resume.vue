@@ -11,7 +11,7 @@
           <a href="tel:+917701966634">
             <v-icon small color="green darken-2">mdi-phone</v-icon>
           </a>
-          7701966634
+          7701966634 / 9801178859
         </div>
         <div class="details-margin">
           <a href="http://chaturcr48@gmail.com" target="_blank">
@@ -84,20 +84,18 @@
           <span class="span-sub-topic"> PHP / MySql / Bootstrap</span>
         </v-row>
         <p class="padding-x">
-          A basic Forum to arise their question related to a particular
-          categories and can get answer of their queries also. Someone haven't
-          any question can give answer of any question by posting a comment of
-          related queries.
+          A basic Forum to post question related to a particular
+          categories and can get answer of their questions/queries too. You can also give answer of other's question by just posting a comment on that thread.
         </p>
         <v-container>
           <ul>
             <li>
               User can visit the forum and see any category, question, answer,
-              etc. but they are not able to arise their question before signing.
+              etc. but they are not able to post their question before login.
             </li>
             <li>
-              User have to first signup and login to the forum to arise their
-              question or to post answer.
+              User have to first signup and login to the forum to post their
+              question or to post answer of other's question.
             </li>
             <li>The time of posting are recorded along with their names.</li>
             <li>
@@ -123,27 +121,19 @@
           <span class="span-sub-topic"> HTML / CSS / JS</span>
         </v-row>
         <p class="padding-x">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia eius,
-          tempora ipsa veniam sapiente atque, possimus eaque delectus
-          accusantium illum, nostrum natus excepturi veritatis. Cumque obcaecati
-          fuga laboriosam velit possimus.
+           A simple Quiz App that contains a set of curated questions and its answers.
+           It will also show your result at the end of the quiz along with your highest score scored earlier.
         </p>
         <v-container>
           <ul>
             <li>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
-              officiis nulla optio tempor atque architecto voluptate. Quisquam
-              hic beatae illo officii.
+              Question is taken from an open source api.
             </li>
             <li>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
-              officiis nulla optio tempor atque architecto voluptate. Quisquam
-              hic beatae illo officii.
+              On choosing the correct answer, it will pop up with green otherwise red.
             </li>
             <li>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
-              officiis nulla optio tempor atque architecto voluptate. Quisquam
-              hic beatae illo officii.
+              Your will get 1 on the corect option else 0 will be given.
             </li>
           </ul>
         </v-container>
