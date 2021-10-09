@@ -4,12 +4,12 @@
       <v-col cols="12" sm="8">
         <div class="f-name">KUMAR CHATUR RANJAN</div>
         <!-- <div>Coding <span class="vl"></span> C / C++ / Python</div> -->
-        <div>Coder / Data Scientist / Web Developer</div>
+        <div>Coder / Web Developer</div>
       </v-col>
       <v-col cols="" sm="" class="details border-left">
         <div class="details-margin">
           <a href="tel:+917701966634">
-          <v-icon small color="green darken-2">mdi-phone</v-icon>
+            <v-icon small color="green darken-2">mdi-phone</v-icon>
           </a>
           7701966634
         </div>
@@ -56,19 +56,19 @@
       <v-col class="padding">
         <p>
           Love to do coding everyday to increase problem solving capabilities.
-          Attending several coding contest on various online coding platform.
-          I enjoy automating everyday task using Python. The idea of enabling a
+          Attending several coding contest on various online coding platform. I
+          enjoy automating everyday task using Python. The idea of enabling a
           machine to learn strikes me. To keep myself updated, I tend to do
           projects that require constant brushing up, learning and research on
-          various ML libraries.
-          Apart from that, I also spend my time in Web-Developing, where i got
-          to learn new things everyday and chances to work on various framework.
-          Hence I see myself enjoying it as my full time profession.
+          various ML libraries. Apart from that, I also spend my time in
+          Web-Developing, where i got to learn new things everyday and chances
+          to work on various framework. Hence I see myself enjoying it as my
+          full time profession.
         </p>
         <p>
-          I aspire to be working on Machine Learning to enhance my
-          skills and knowledge to a point where I can find myself comfortable to
-          contribute and bring a change, regardless of how small it may be.
+          I aspire to be working on Machine Learning to enhance my skills and
+          knowledge to a point where I can find myself comfortable to contribute
+          and bring a change, regardless of how small it may be.
         </p>
       </v-col>
     </v-row>
@@ -110,8 +110,12 @@
             href="https://github.com/chaturcr48/Forum-for-question-and-answer"
             target="_blank"
             rel="noopener noreferrer"
-            ><span class="link">See Project</span></a
-          >
+            ><span class="link">See Project</span
+            >
+            <i
+              class="fa fa-external-link"
+              style="font-size: 22px; color: green; margin-left: 5px"></i>
+            </a>
         </div>
         <v-row class="padding">
           <span style="font-weight: bold; font-size: 20px">Quiz App</span>
@@ -148,7 +152,9 @@
             href="https://github.com/chaturcr48/Quiz-App"
             target="_blank"
             rel="noopener noreferrer"
-            ><span class="link">See Project</span></a
+            ><span class="link">See Project</span><i
+              class="fa fa-external-link"
+              style="font-size: 22px; color: green; margin-left: 5px"></i></a
           >
         </div>
         <v-row class="padding">
@@ -182,7 +188,9 @@
             href="https://github.com/chaturcr48/CRUD-Project"
             target="_blank"
             rel="noopener noreferrer"
-            ><span class="link">See Project</span></a
+            ><span class="link">See Project<i
+              class="fa fa-external-link"
+              style="font-size: 22px; color: green; margin-left: 5px"></i></span></a
           >
         </div>
         <v-row class="padding">
@@ -215,7 +223,9 @@
             href="https://github.com/chaturcr48/A-product-base-app"
             target="_blank"
             rel="noopener noreferrer"
-            ><span class="link">See Project</span></a
+            ><span class="link">See Project<i
+              class="fa fa-external-link"
+              style="font-size: 22px; color: green; margin-left: 5px"></i></span></a
           >
         </div>
         <v-alert border="left" color="green" dark class="margin-top">
@@ -317,8 +327,9 @@
           <div>HTML</div>
           <div>CSS</div>
           <div>Java Script</div>
-          <div>Node.Js</div>
-          <div>Vue.Js</div>
+          <div>node.Js</div>
+          <div>React.js</div>
+          <div>vue.js</div>
           <div>PHP</div>
           <div>MySql</div>
           <div>MongoDB</div>
@@ -341,8 +352,8 @@
           <div>University Institute Of Technology</div>
           <div>Burdwan University</div>
           <div>West Bengal, India</div>
-          <div>2018-2022</div>
-          <div>9.00 SGPA</div>
+          <div>2018-2022 (progress)</div>
+          <div>8.98 CGPA</div>
         </div>
         <span style="font-weight: bold; font-size: 20px" class="padding-x"
           >CBSE XII Grade
@@ -365,11 +376,105 @@
         <v-alert border="left" color="green" dark class="margin-top">
           Certification
         </v-alert>
-        <span style="font-weight: bold; font-size: 20px" class="padding-x"
-          >Heading
-        </span>
         <div class="padding-x">
-          <div>Not Yet</div>
+          <div>
+            <a
+              href="https://drive.google.com/file/d/1w42lPTxhI9S4QBVlxod_BRCKCub2m_b4/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              class=""
+              ><span class="" color="" style="color: black; margin-right: 5px"
+                >Cloud Computing</span
+              >
+              <v-icon class="footer-icon" color="green darken-2">
+                mdi-link
+              </v-icon>
+            </a>
+          </div>
+          <div>
+            <a
+              href="https://drive.google.com/file/d/1sU3N21XR8EF7MAairdJl9YDpq3GtdSjC/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              class=""
+              ><span class="" color="" style="color: black; margin-right: 5px"
+                >Internship-1</span
+              >
+              <v-icon class="footer-icon" color="green darken-2">
+                mdi-link
+              </v-icon>
+            </a>
+          </div>
+          <div>
+            <a
+              href="https://drive.google.com/file/d/10FRDJWrvGm3OZDYbUcX40yoa48HIM1uU/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              class=""
+              ><span class="" color="" style="color: black; margin-right: 5px"
+                >Internship-2</span
+              >
+              <v-icon class="footer-icon" color="green darken-2">
+                mdi-link
+              </v-icon>
+            </a>
+          </div>
+          <div>
+            <a
+              href="https://drive.google.com/file/d/1fn-PXpLt0ULZf--t7O_N_-04aTC3g13J/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              class=""
+              ><span class="" color="" style="color: black; margin-right: 5px"
+                >Machine Learning-2</span
+              >
+              <v-icon class="footer-icon" color="green darken-2">
+                mdi-link
+              </v-icon>
+            </a>
+          </div>
+          <div>
+            <a
+              href="https://drive.google.com/file/d/1T1-9hbb2M8Uo3BbLEFHvWM81q_SEnV-H/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              class=""
+              ><span class="" color="" style="color: black; margin-right: 5px"
+                >Machine Learning-2</span
+              >
+              <v-icon class="footer-icon" color="green darken-2">
+                mdi-link
+              </v-icon>
+            </a>
+          </div>
+          <div>
+            <a
+              href="https://drive.google.com/file/d/1AVFRkXpJr4JwcXSebRJqvjFMsVCoLSaD/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              class=""
+              ><span class="" color="" style="color: black; margin-right: 5px"
+                >C Programming</span
+              >
+              <v-icon class="footer-icon" color="green darken-2">
+                mdi-link
+              </v-icon>
+            </a>
+          </div>
+          <div>
+            <a
+              href="https://drive.google.com/file/d/1GReGwq2gX84d71w0c9z-S9B7PqmrIhI6/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              class=""
+              ><span class="" color="" style="color: black; margin-right: 5px"
+                >Python</span
+              >
+              <v-icon class="footer-icon" color="green darken-2">
+                mdi-link
+              </v-icon>
+            </a>
+          </div>
         </div>
         <v-alert border="left" color="green" dark class="margin-top">
           Languages
@@ -387,6 +492,7 @@
         <div class="padding-x">
           <div>Coding</div>
           <div>Web Developing</div>
+          <div>Data Visualization</div>
         </div>
         <span style="font-weight: bold; font-size: 20px" class="padding-x"
           >Life
