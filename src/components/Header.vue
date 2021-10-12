@@ -44,6 +44,15 @@
           </a>
           Bihar, India
         </div>
+        <div class="details-margin">
+          <a
+            href="https://drive.google.com/file/d/1nt6WJicc5AMpUu6pOq1jaQpGKGDz0LxU/view?usp=sharing"
+            target="_blank"
+          >
+            <v-icon small color="green darken-2">mdi-notebook</v-icon>
+          </a>
+          Resume
+        </div>
       </v-col>
 
     </v-row>
