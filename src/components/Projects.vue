@@ -23,9 +23,6 @@
               question or to post answer of other's question.
             </li>
             <li>The time of posting are recorded along with their names.</li>
-            <li>
-              The forum is fully responsive, designed using vue.js framework.
-            </li>
           </ul>
         </v-container>
         <div class="padding-x">
@@ -74,27 +71,22 @@
         </div>
         <v-row class="padding">
           <span style="font-weight: bold; font-size: 20px"
-            >Admin Login Dashboard</span
+            >Keep Note</span
           >
           <v-spacer></v-spacer>
           <span class="span-sub-topic"> PHP / MySql / Bootstrap</span>
         </v-row>
         <p class="padding-x">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia eius,
-          tempora ipsa nostrum natus excepturi veritatis. Cumque obcaecati fuga
-          laboriosam velit possimus.
+          An app where you can store your daily notes for further use. You can also edit and delete your notes according to your choice.
+          Their is also a serch functionality so that you can grab your notes easily.
         </p>
         <v-container>
           <ul>
             <li>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
-              officiis nulla optio tempor atque architecto voluptate. Quisquam
-              hic beatae illo officii.
+              You can add, edit and delete your notes.
             </li>
             <li>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
-              officiis nulla optio tempor atque architecto voluptate. Quisquam
-              hic beatae illo officii.
+              Serch functionality and pagination is given(a page contains atmost 10 notes).
             </li>
           </ul>
         </v-container>
