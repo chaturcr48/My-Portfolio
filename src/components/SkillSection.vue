@@ -97,7 +97,7 @@
               rel="noopener noreferrer"
               class=""
               ><span class="" color="" style="color: black; margin-right: 5px"
-                >Machine Learning-2</span
+                >Machine Learning-1</span
               >
               <v-icon class="footer-icon" color="green darken-2">
                 mdi-link
