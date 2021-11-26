@@ -171,7 +171,7 @@
     <p class="padding-x">
       Completed a course of 48.5 hours (487 lectures) with a lot of assignments from udemy.
     </p>
-    <v-alert border="left" color="green" dark class="margin-top">
+    <!-- <v-alert border="left" color="green" dark class="margin-top">
       Achievements
     </v-alert>
     <v-row class="padding">
@@ -211,6 +211,6 @@
           beatae illo officii.
         </li>
       </ul>
-    </v-container>
+    </v-container> -->
   </v-col>
 </template>
