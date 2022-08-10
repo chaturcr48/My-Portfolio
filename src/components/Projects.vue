@@ -1,6 +1,46 @@
 <template>
   <v-col cols="12" sm="8" class="">
-    <v-alert border="left" color="green" dark> Projects </v-alert>
+    <v-alert border="left" color="green" dark class=""> Experience </v-alert>
+    <v-row class="padding">
+      <span style="font-weight: bold; font-size: 20px"
+        >Internship, Work from home (Frendy)</span
+      >
+      <v-spacer></v-spacer>
+      <span class="span-sub-topic"> Full Stack Web Developer</span>
+    </v-row>
+    <p class="padding-x">
+      23rd Sept – 14th Dec 2020
+      <br />
+      Completed an internship with Areli commerce Pvt Ltd (Frendy) as a Full
+      Stack-Intern.
+    </p>
+    <v-row class="padding">
+      <span style="font-weight: bold; font-size: 20px"
+        >Training cum Internship, Work from home (Wipro)</span
+      >
+      <v-spacer></v-spacer> <span class="span-sub-topic"> Java Full Stack</span>
+    </v-row>
+    <p class="padding-x">
+      2nd Feb – 31st March 2022
+      <br />
+      Completed an internship of Java J2EE with Wipro Limited
+    </p>
+    <v-row class="padding">
+      <span style="font-weight: bold; font-size: 20px"
+        >Training, Work from home (Stackroute NIIT)</span
+      >
+      <v-spacer></v-spacer>
+      <span class="span-sub-topic">Data Scientist</span>
+    </v-row>
+    <p class="padding-x">
+      19thApril – 6th June 2022 <br />
+      Completed the training of Data Scientist with Stack Route(NIIT) through Wipro
+      Limited
+    </p>
+
+    <v-alert border="left" color="green" dark class="margin-left">
+      Projects
+    </v-alert>
     <v-row class="padding">
       <span style="font-weight: bold; font-size: 20px"
         >Forum For Question And Answer</span
@@ -131,27 +171,10 @@
           ></i></span
       ></a>
     </div>
+
     <v-alert border="left" color="green" dark class="margin-top">
-      Training / Courses
+      Courses
     </v-alert>
-    <v-row class="padding">
-      <span style="font-weight: bold; font-size: 20px"
-        >Machine Learning <em style="font-size: 12px">(Training)</em></span
-      >
-      <v-spacer></v-spacer> <span class="span-sub-topic"> Python</span>
-    </v-row>
-    <p class="padding-x">
-      Completed a training cum intership from WebTech Labs Pvt. Ltd. on Machine
-      Learning with Python for a period of one month(29-05-2021 to 28-06-2021).
-      <a
-        href="https://drive.google.com/file/d/1fn-PXpLt0ULZf--t7O_N_-04aTC3g13J/view?usp=sharing"
-        target="_blank"
-        rel="noopener noreferrer"
-        class=""
-        ><span class="" color="" style="color: black; margin-right: 5px"></span>
-        <v-icon class="footer-icon" color="green darken-2"> mdi-link </v-icon>
-      </a>
-    </p>
     <v-row class="padding">
       <span style="font-weight: bold; font-size: 20px"
         >Python for Data Science and Machine Learning
@@ -160,57 +183,47 @@
       <v-spacer></v-spacer> <span class="span-sub-topic"> Python</span>
     </v-row>
     <p class="padding-x">
-      Completed a course of 25 hours (165 lectures) with more than 10 assignments/projects from udemy.
+      Completed a course of 25 hours (165 lectures) with more than 10
+      assignments/projects from udemy.
     </p>
     <v-row class="padding">
       <span style="font-weight: bold; font-size: 20px"
         >React.js
-        <em style="font-size: 12px">(Course- Maximilian Schwarzmüller)</em></span>
+        <em style="font-size: 12px"
+          >(Course- Maximilian Schwarzmüller)</em
+        ></span
+      >
       <v-spacer></v-spacer> <span class="span-sub-topic"> React</span>
     </v-row>
     <p class="padding-x">
-      Completed a course of 48.5 hours (487 lectures) with a lot of assignments from udemy.
+      Completed a course of 48.5 hours (487 lectures) with a lot of assignments
+      from udemy.
+        <a
+          href="https://drive.google.com/file/d/1V1sBGI6wppETT1b-vswvzfkG6bKZ8f5u/view?usp=sharing"
+          target="_blank"
+          rel="noopener noreferrer"
+          class=""
+          ><span class="" color="" style="color: black; margin-right: 5px"></span>
+          <v-icon class="footer-icon" color="green darken-2"> mdi-link </v-icon>
+        </a>
     </p>
-    <!-- <v-alert border="left" color="green" dark class="margin-top">
-      Achievements
-    </v-alert>
-    <v-row class="padding">
-      <span style="font-weight: bold; font-size: 20px"
-        >Heading of the topic</span
-      >
-      <v-spacer></v-spacer> <span class="span-sub-topic"> sub topic</span>
-    </v-row>
-    <p class="padding-x">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi error
-      ducimus distinctio laborum consequatur assumenda similique tempora modi
-      fuga sunt voluptates repudiandae, suscipit quia eum atque ratione,
-      repellat saepe aspernatur dolorem dolorum recusandae earum expedita quis.
-      Consectetur accusamus molestiae, exercitationem deleniti qui culpa natus
-      commodi sed! Dolor ex ut doloribus ad ea ratione libero dolores beatae.
-    </p>
-    <v-container>
-      <ul>
-        <li>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
-          officiis nulla optio tempor atque architecto voluptate. Quisquam hic
-          beatae illo officii.
-        </li>
-        <li>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
-          officiis nulla optio tempor atque architecto voluptate. Quisquam hic
-          beatae illo officii.
-        </li>
-        <li>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
-          officiis nulla optio tempor atque architecto voluptate. Quisquam hic
-          beatae illo officii.
-        </li>
-        <li>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat a
-          officiis nulla optio tempor atque architecto voluptate. Quisquam hic
-          beatae illo officii.
-        </li>
-      </ul>
-    </v-container> -->
+      <v-row class="padding">
+        <span style="font-weight: bold; font-size: 20px"
+          >Machine Learning <em style="font-size: 12px">(Training)</em></span
+        >
+        <v-spacer></v-spacer> <span class="span-sub-topic"> Python</span>
+      </v-row>
+      <p class="padding-x">
+        Completed a training cum intership from WebTech Labs Pvt. Ltd. on Machine
+        Learning with Python for a period of one month(29-05-2021 to 28-06-2021).
+        <a
+          href="https://drive.google.com/file/d/1fn-PXpLt0ULZf--t7O_N_-04aTC3g13J/view?usp=sharing"
+          target="_blank"
+          rel="noopener noreferrer"
+          class=""
+          ><span class="" color="" style="color: black; margin-right: 5px"></span>
+          <v-icon class="footer-icon" color="green darken-2"> mdi-link </v-icon>
+        </a>
+      </p>
   </v-col>
 </template>

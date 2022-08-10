@@ -18,6 +18,7 @@
           <div>PHP</div>
           <div>MySql</div>
           <div>MongoDB</div>
+          <div>Machine Learning</div>
         </div>
         <span style="font-weight: bold; font-size: 20px" class="padding-x"
           >Professional
@@ -31,14 +32,14 @@
           Education
         </v-alert>
         <span style="font-weight: bold; font-size: 20px" class="padding-x"
-          >Persuing B.E. CSE
+          >B.E. CSE
         </span>
         <div class="padding-x">
           <div>University Institute Of Technology</div>
           <div>Burdwan University</div>
           <div>West Bengal, India</div>
-          <div>2018-2022 (progress)</div>
-          <div>8.98 CGPA</div>
+          <div>2018-2022</div>
+          <div>9.12 CGPA</div>
         </div>
         <span style="font-weight: bold; font-size: 20px" class="padding-x"
           >CBSE XII Grade
@@ -62,6 +63,20 @@
           Certification
         </v-alert>
         <div class="padding-x">
+          <div>
+            <a
+              href="https://drive.google.com/file/d/1H5q7QxWvyJHX63D6f0y0bIlAsxF7Zafv/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              class=""
+              ><span class="" color="" style="color: black; margin-right: 5px"
+                >Data Science Training (Wipro)</span
+              >
+              <v-icon class="footer-icon" color="green darken-2">
+                mdi-link
+              </v-icon>
+            </a>
+          </div>
           <div>
             <a
               href="https://drive.google.com/file/d/1sU3N21XR8EF7MAairdJl9YDpq3GtdSjC/view?usp=sharing"
@@ -112,6 +127,20 @@
               class=""
               ><span class="" color="" style="color: black; margin-right: 5px"
                 >Machine Learning-2</span
+              >
+              <v-icon class="footer-icon" color="green darken-2">
+                mdi-link
+              </v-icon>
+            </a>
+          </div>
+          <div>
+            <a
+              href="https://drive.google.com/file/d/1V1sBGI6wppETT1b-vswvzfkG6bKZ8f5u/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              class=""
+              ><span class="" color="" style="color: black; margin-right: 5px"
+                >React</span
               >
               <v-icon class="footer-icon" color="green darken-2">
                 mdi-link
@@ -177,7 +206,7 @@
         <div class="padding-x">
           <div>Coding</div>
           <div>Web Developing</div>
-          <div>Data Visualization</div>
+          <div>Data Visualization & EDA</div>
         </div>
         <span style="font-weight: bold; font-size: 20px" class="padding-x"
           >Life

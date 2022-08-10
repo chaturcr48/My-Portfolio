@@ -46,7 +46,7 @@
         </div>
         <div class="details-margin">
           <a
-            href="https://drive.google.com/file/d/1nt6WJicc5AMpUu6pOq1jaQpGKGDz0LxU/view?usp=sharing"
+            href="https://drive.google.com/file/d/11L18Q8aJOEICa3FkmgkASzs-fDfl6eTj/view?usp=sharing"
             target="_blank"
           >
             <v-icon small color="green darken-2">mdi-notebook</v-icon>
